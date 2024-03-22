@@ -5,6 +5,7 @@ source "https://rubygems.org"
 
 ruby "3.3.0"
 
+gem 'bootstrap'
 # The 'rails' gem is the core gem of Ruby on Rails framework. It provides the necessary functionality to build web applications.
 # The '~> 7.1.3' version constraint ensures that the application uses Rails version 7.1.3 or higher.
 gem "rails", "~> 7.1.3", ">= 7.1.3.2"
